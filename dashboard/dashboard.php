@@ -211,7 +211,7 @@ $datas = $statement->fetchAll(PDO::FETCH_ASSOC);
   <section id="stats-subtitle">
   <div class="row">
     <div class="col-12 mt-3 mb-1">
-      <h4 class="text-uppercase"> More Statistics With Subtitle</h4>
+      <h4 class="text-uppercase"> More Statistics</h4>
       <p> </p>
     </div>
   </div>
